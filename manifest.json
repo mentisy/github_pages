@@ -1,7 +1,7 @@
 {
     "short_name": "Score",
     "name": "Score Keeper",
-    "start_url": "/score/",
+    "start_url": "/score-site/",
     "display": "standalone",
     "theme_color": "#55A3C0",
     "background_color": "#55A3C0",
